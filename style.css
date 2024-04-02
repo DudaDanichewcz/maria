@@ -3,12 +3,6 @@ header {
     background-color: #ff009d;
     color: rgb(255, 0, 128);
 }
- body {
-    background-color: #ff009d;
-}
-.cabecalho {
-    background-color: #f500a3;
-    color: white;
-    display: flex;
-    justify-content: space-around;
-}
+ <h1> {background-color: #ff009d;
+    color: aquamarine
+ };

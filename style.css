@@ -6,3 +6,9 @@ header {
  body {
     background-color: #ff009d;
 }
+.cabecalho {
+    background-color: #f500a3;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}

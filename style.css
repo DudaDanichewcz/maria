@@ -2,6 +2,8 @@
 header {
     background-color: #ff009d;
     color: #faf5f8;
+    display: flex;
+    justify-content: space-around;
 }
  body {
     background-color: aliceblue;
@@ -15,12 +17,14 @@ header {
    background-color: aliceblue;
    color:#ff009d;
  }
-.imagem-header {
+ .imagem-header {
    width: 30%;
-}
-.img-2 {
+ }
+
+ .img-2 {
    width: 30%;
-}
-.img-3 {
+ }
+
+ .img-3 {
    width: 30%;
-}
+ }

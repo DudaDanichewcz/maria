@@ -7,11 +7,9 @@ header {
  body {
     background-color: aliceblue;
     color: #ff009d;
-    display: flex;
-    justify-content: space-around;
 }
- }
- .classe 1 {
+
+.classe 1 {
     background-color: aliceblue;
     color:  #ff009d;
  }

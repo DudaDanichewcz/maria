@@ -10,7 +10,7 @@ header {
 }
 
 .classe 1 {
-    background-color: aliceblue;
+    background-color: #ff009d;
     color:  #ff009d;
     font-size: 50px;
  }
@@ -21,16 +21,19 @@ header {
    }
 
  .img-2 {
+  display: flex;
    width: 25%;
    height: 25%;
  }
 
  .img-3 {
+  display: flex;
    width: 25%;
    height: 25%;
  }
  
  .img-profissional {
+  display: flex;
   width: 15px;
   height: 15px;
  }

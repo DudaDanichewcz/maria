@@ -22,12 +22,17 @@ header {
    font-size: 100%;
    }
 
- .imgagem-header {
+ .imagem-header {
     display:flex;
     width: 25%;
     height: 25%;
    }
-
+  .imagem whats {
+    display: flex;
+    width: 25%;
+    height: 25%;
+  }
+  
  .img-2 {
   display: flex;
    width: 25%;

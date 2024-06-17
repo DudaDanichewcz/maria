@@ -41,12 +41,12 @@ header {
 
  .img-3 {
   display: flex;
-  height: 60px;
+  height: 60px
   padding: 12px 0;
  }
  
  .img-profissional {
   display: flex;
-  width: 25%;
   height: 25%;
+  padding: 12px 0;
  }

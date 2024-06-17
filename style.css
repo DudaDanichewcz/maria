@@ -41,6 +41,7 @@ header {
 
  .img-3 {
   display: flex;
+  padding: 12px 0;
    width: 25%;
    height: 25%;
  }

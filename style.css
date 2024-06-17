@@ -29,8 +29,9 @@ header {
    }
   .imagem whats {
     display: flex;
-    width: 25%;
-    height: 25%;
+    height: 30px;
+    padding: 12px 0;
+   
   }
   
  .img-2 {
